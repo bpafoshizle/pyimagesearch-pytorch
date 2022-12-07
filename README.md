@@ -1,0 +1,1 @@
+- Don't forget to start xquartz with `open -a XQuartz` and allow traffic with xhost like `xhost +localhost`
